@@ -24,9 +24,5 @@ pipeline {
         }
     }
 
-    post {
-        success {
-            // Define post-build actions, if needed
-        }
-    }
+    
 }
